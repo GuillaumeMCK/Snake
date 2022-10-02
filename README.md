@@ -1,6 +1,6 @@
 # Simple SNAKE Game
 ## Description
-This is a simple snake game made in typescript. It is a simple game where you have to eat the food and grow your snake. The game is over when you hit the wall or your snake's body.
+This is a simple snake game made in typescript where you have to eat the food and grow your snake. The game is over when you hit the wall or your snake's body.
 ## How to play
 Go to the [link](https://guillaumemck.github.io/Snake/) and play the game.
 - Use the arrow keys to move the snake.
